@@ -1,0 +1,11 @@
+main:
+  - title: "홈"
+    url: /
+  - title: "블로그"
+    url: /year-archive/
+  - title: "데이터 분석"
+    url: /categories/data-analysis/
+  - title: "태그"
+    url: /tags/
+  - title: "소개"
+    url: /about/
