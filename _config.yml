@@ -5,4 +5,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 include: 
-  - _data/navigation.yml
+  - _data/navigation.yml  
+sidebar:
+  nav: "main"  # 네비게이션 메뉴 연결 (navigation.yml에서 설정한 값)
