@@ -4,4 +4,5 @@ theme: jekyll-theme-modernist
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
-
+include: 
+  - _data/navigation.yml
