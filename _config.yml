@@ -1,6 +1,5 @@
-title: "내 깃허브 블로그 🚀"
-description: "데이터 분석 & AI 이야기"
-theme: jekyll-theme-modernist
+title: "JIN's record"
+description: "데이터 분석 & AI & 마케팅 이야기"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
