@@ -8,3 +8,8 @@ include:
 sidebar:
   nav: "main"
 permalink: /:categories/:title/
+
+collections:
+  categories:
+    output: true
+    permalink: /categories/:name/
