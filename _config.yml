@@ -1,5 +1,5 @@
 title: "JIN's record"
-description: "데이터 분석 & AI & 마케팅 이야기"
+description: "데이터 분석, AI, 마케팅 이야기"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
